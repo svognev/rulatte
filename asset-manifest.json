@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rulatte/static/css/main.ccb220cf.css",
+    "main.js": "/rulatte/static/js/main.b9c14511.js",
+    "index.html": "/rulatte/index.html",
+    "main.ccb220cf.css.map": "/rulatte/static/css/main.ccb220cf.css.map",
+    "main.b9c14511.js.map": "/rulatte/static/js/main.b9c14511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb220cf.css",
+    "static/js/main.b9c14511.js"
+  ]
+}
